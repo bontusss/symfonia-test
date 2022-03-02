@@ -1,6 +1,9 @@
 # symfonia_test
 
-A new Flutter project.
+Calling an API with HTTP package and GETX for state management.
+
+![alt text](https://github.com/bontusss/symfonia-test/blob/main/Screenshot_20220302-092052.png)
+
 
 ## Getting Started
 
